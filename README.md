@@ -22,7 +22,7 @@ Aspiring front-end developer passionate about creating responsive, user-friendly
   Developed an e-commerce platform for green products, using React.js, Next.js, and TypeScript. Collaborated with team members to enhance UI components and improve product filtering.
 
 - **Personal Projects**  
-  - **Article summarizer**  
+   **Article summarizer**  
     Built a platform where you can summarize any of your articles using just the links of their.
 
 - **Course Projects**  
